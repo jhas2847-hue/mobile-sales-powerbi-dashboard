@@ -62,9 +62,9 @@ The Power BI dashboard includes the following components:
 ---
 
 ## 📂 Repository Contents
-- `mobile-sales-dashboard.pbix` → Power BI dashboard file  
-- `mobile-sales-data.csv` → Dataset used for analysis  
-- `dashboard-preview.png` → Dashboard screenshot  
+- `Sales Dashboard.PNG` → Main Power BI dashboard view  
+- `Same Period Last Month,quarter and year.PNG` → Comparative sales analysis  
+- `power BI Dataset.xlsx` → Dataset used for the dashboard  
 
 ---
 
