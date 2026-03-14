@@ -6,6 +6,38 @@ This project presents an interactive **Mobile Sales Analysis Dashboard** built u
 The objective of this project is to convert raw sales data into meaningful insights using data visualization and DAX calculations. The dashboard allows users to explore key business metrics and understand sales trends in an intuitive way.
 
 ---
+![Sales Dashboard](Sales%20Dashboard.PNG)
+
+
+## Dataset Description
+
+The dataset used in this project contains sales transaction data for different mobile phone brands across multiple cities. It helps analyze sales performance, customer preferences, and payment trends.
+
+### Dataset Columns
+
+| Column Name | Description |
+|-------------|-------------|
+| Brand | Name of the mobile phone brand (e.g., Apple, Samsung, Xiaomi). |
+| Mobile Model | Specific model of the mobile phone sold. |
+| City | City where the sales transaction occurred. |
+| Units Sold | Number of mobile units sold in a transaction. |
+| Price | Selling price of the mobile phone. |
+| Total Sales | Total revenue generated from the transaction. |
+| Payment Method | Mode of payment used by the customer (UPI, Credit Card, Debit Card, Cash, etc.). |
+| Customer Rating | Rating given by the customer after purchase. |
+| Transaction Date | Date on which the purchase was made. |
+
+### Dataset Purpose
+
+This dataset is used to analyze:
+
+- Sales performance by **brand and mobile model**
+- **City-wise sales distribution**
+- **Customer purchasing patterns**
+- **Preferred payment methods**
+- **Customer satisfaction through ratings**
+
+The dataset enables the creation of an interactive Power BI dashboard to visualize sales trends and generate business insights.
 
 ## 🎯 Project Objectives
 • Analyze overall mobile sales performance  
@@ -47,15 +79,14 @@ The Power BI dashboard includes the following components:
 ---
 
 ## 📈 Key Insights
-• Identified the brands contributing the highest share of mobile sales  
-• Observed monthly sales patterns and fluctuations  
-• Compared sales performance across regions  
-• Built interactive visuals for easy data exploration  
 
----
+- **Saturday records the highest mobile sales**, indicating increased customer purchases during weekends.
+- **UPI is the most preferred payment method**, showing a strong shift toward digital transactions.
+- **Apple and Samsung contribute the largest share of total revenue**, making them the top-performing brands.
+- **Certain cities generate significantly higher sales**, highlighting regional demand differences.
 
 ## 📷 Dashboard Preview
-![Sales Dashboard](Sales%20Dashboard.PNG)
+
 ![Sales Analysis](Same%20Period%20Last%20Month,quarter%20and%20year.PNG)
 
 
