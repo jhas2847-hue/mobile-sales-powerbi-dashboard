@@ -1,4 +1,10 @@
 # 📊 Mobile Sales Analysis Dashboard – Power BI
+![Sales Dashboard](Sales%20Dashboard.PNG)
+
+## Business Problem
+
+Mobile retailers need to understand which brands, cities, and payment methods contribute the most to sales.  
+This dashboard helps stakeholders monitor sales performance and customer purchasing patterns.
 
 ## 📌 Project Overview
 This project presents an interactive **Mobile Sales Analysis Dashboard** built using **Power BI**. The dashboard helps analyze mobile phone sales performance across different brands, regions, and time periods.
@@ -6,8 +12,6 @@ This project presents an interactive **Mobile Sales Analysis Dashboard** built u
 The objective of this project is to convert raw sales data into meaningful insights using data visualization and DAX calculations. The dashboard allows users to explore key business metrics and understand sales trends in an intuitive way.
 
 ---
-![Sales Dashboard](Sales%20Dashboard.PNG)
-
 
 ## Dataset Description
 
